@@ -1,0 +1,289 @@
+,restaurant,item,calories,cal_fat,total_fat,sat_fat,trans_fat,cholesterol,sodium,total_carb,fiber,sugar,protein,vit_a,vit_c,calcium,salad
+1,Murugan Idly,Idly,150,50,5,2,0,2,250,28,2,1,4,1,2,8,Other
+2,Murugan Idly,Masala Dosa,350,120,14,6,0.2,10,400,42,4,2,8,6,4,18,Other
+3,Murugan Idly,Vada,200,70,8,3,0.1,5,320,18,1,1,5,2,1,10,Other
+4,Murugan Idly,Pongal,300,90,10,3,0,15,350,35,2,2,6,4,2,12,Other
+5,Murugan Idly,Uttapam,250,80,9,3,0.1,8,300,32,3,2,7,3,2,14,Other
+6,Murugan Idly,Chutney,100,30,4,1,0,0,120,6,1,1,2,1,1,4,Other
+7,Murugan Idly,Sambar,150,50,5,2,0,2,200,12,2,2,4,1,2,6,Other
+8,Murugan Idly,Rava Kichadi,250,80,9,3,0.1,7,300,34,2,2,7,3,2,14,Other
+9,Murugan Idly,Curd Rice,280,100,11,4,0,12,400,50,2,6,7,5,6,18,Other
+10,Murugan Idly,Podi Idly,160,55,6,2,0.1,3,270,28,2,2,5,2,2,8,Other
+11,Murugan Idly,Idly,150,50,5,2,0,2,250,28,2,1,4,1,2,8,Other
+12,Murugan Idly,Masala Dosa,350,120,14,6,0.2,10,400,42,4,2,8,6,4,18,Other
+13,Murugan Idly,Vada,200,70,8,3,0.1,5,320,18,1,1,5,2,1,10,Other
+14,Murugan Idly,Pongal,300,90,10,3,0,15,350,35,2,2,6,4,2,12,Other
+15,Murugan Idly,Uttapam,250,80,9,3,0.1,8,300,32,3,2,7,3,2,14,Other
+16,Murugan Idly,Chutney,100,30,4,1,0,0,120,6,1,1,2,1,1,4,Other
+17,Murugan Idly,Sambar,150,50,5,2,0,2,200,12,2,2,4,1,2,6,Other
+18,Murugan Idly,Rava Kichadi,250,80,9,3,0.1,7,300,34,2,2,7,3,2,14,Other
+19,Murugan Idly,Curd Rice,280,100,11,4,0,12,400,50,2,6,7,5,6,18,Other
+20,Murugan Idly,Podi Idly,160,55,6,2,0.1,3,270,28,2,2,5,2,2,8,Other
+21,Murugan Idly,Idly,150,50,5,2,0,2,250,28,2,1,4,1,2,8,Other
+22,Murugan Idly,Masala Dosa,350,120,14,6,0.2,10,400,42,4,2,8,6,4,18,Other
+23,Murugan Idly,Vada,200,70,8,3,0.1,5,320,18,1,1,5,2,1,10,Other
+24,Murugan Idly,Pongal,300,90,10,3,0,15,350,35,2,2,6,4,2,12,Other
+25,Murugan Idly,Uttapam,250,80,9,3,0.1,8,300,32,3,2,7,3,2,14,Other
+26,Murugan Idly,Chutney,100,30,4,1,0,0,120,6,1,1,2,1,1,4,Other
+27,Murugan Idly,Sambar,150,50,5,2,0,2,200,12,2,2,4,1,2,6,Other
+28,Murugan Idly,Rava Kichadi,250,80,9,3,0.1,7,300,34,2,2,7,3,2,14,Other
+29,Murugan Idly,Curd Rice,280,100,11,4,0,12,400,50,2,6,7,5,6,18,Other
+30,Murugan Idly,Podi Idly,160,55,6,2,0.1,3,270,28,2,2,5,2,2,8,Other
+31,Murugan Idly,Idly,150,50,5,2,0,2,250,28,2,1,4,1,2,8,Other
+32,Murugan Idly,Masala Dosa,350,120,14,6,0.2,10,400,42,4,2,8,6,4,18,Other
+33,Murugan Idly,Vada,200,70,8,3,0.1,5,320,18,1,1,5,2,1,10,Other
+34,Murugan Idly,Pongal,300,90,10,3,0,15,350,35,2,2,6,4,2,12,Other
+35,Murugan Idly,Uttapam,250,80,9,3,0.1,8,300,32,3,2,7,3,2,14,Other
+36,Murugan Idly,Chutney,100,30,4,1,0,0,120,6,1,1,2,1,1,4,Other
+37,Murugan Idly,Sambar,150,50,5,2,0,2,200,12,2,2,4,1,2,6,Other
+38,Murugan Idly,Rava Kichadi,250,80,9,3,0.1,7,300,34,2,2,7,3,2,14,Other
+39,Murugan Idly,Curd Rice,280,100,11,4,0,12,400,50,2,6,7,5,6,18,Other
+40,Murugan Idly,Podi Idly,160,55,6,2,0.1,3,270,28,2,2,5,2,2,8,Other
+41,Murugan Idly,Idly,150,50,5,2,0,2,250,28,2,1,4,1,2,8,Other
+42,Murugan Idly,Masala Dosa,350,120,14,6,0.2,10,400,42,4,2,8,6,4,18,Other
+43,Murugan Idly,Vada,200,70,8,3,0.1,5,320,18,1,1,5,2,1,10,Other
+44,Murugan Idly,Pongal,300,90,10,3,0,15,350,35,2,2,6,4,2,12,Other
+45,Murugan Idly,Uttapam,250,80,9,3,0.1,8,300,32,3,2,7,3,2,14,Other
+46,Murugan Idly,Chutney,100,30,4,1,0,0,120,6,1,1,2,1,1,4,Other
+47,Murugan Idly,Sambar,150,50,5,2,0,2,200,12,2,2,4,1,2,6,Other
+48,Murugan Idly,Rava Kichadi,250,80,9,3,0.1,7,300,34,2,2,7,3,2,14,Other
+49,Murugan Idly,Curd Rice,280,100,11,4,0,12,400,50,2,6,7,5,6,18,Other
+50,Murugan Idly,Podi Idly,160,55,6,2,0.1,3,270,28,2,2,5,2,2,8,Other
+51,Murugan Idly,Idly,150,50,5,2,0,2,250,28,2,1,4,1,2,8,Other
+52,Murugan Idly,Masala Dosa,350,120,14,6,0.2,10,400,42,4,2,8,6,4,18,Other
+53,Murugan Idly,Vada,200,70,8,3,0.1,5,320,18,1,1,5,2,1,10,Other
+54,Murugan Idly,Pongal,300,90,10,3,0,15,350,35,2,2,6,4,2,12,Other
+55,Murugan Idly,Uttapam,250,80,9,3,0.1,8,300,32,3,2,7,3,2,14,Other
+56,Murugan Idly,Chutney,100,30,4,1,0,0,120,6,1,1,2,1,1,4,Other
+57,Murugan Idly,Sambar,150,50,5,2,0,2,200,12,2,2,4,1,2,6,Other
+58,Murugan Idly,Rava Kichadi,250,80,9,3,0.1,7,300,34,2,2,7,3,2,14,Other
+59,Murugan Idly,Curd Rice,280,100,11,4,0,12,400,50,2,6,7,5,6,18,Other
+60,Murugan Idly,Podi Idly,160,55,6,2,0.1,3,270,28,2,2,5,2,2,8,Other
+61,A2B,Sambar Rice,300,90,10,3,0,15,450,55,4,5,8,10,5,20,Other
+62,A2B,Curd Rice,280,100,11,4,0,12,400,50,2,6,7,5,6,18,Other
+63,A2B,Veg Pulao,320,110,12,4,0,18,420,53,3,5,9,8,5,22,Other
+64,A2B,Paneer Butter Masala,520,180,25,9,0.5,25,750,15,3,6,14,12,6,35,Other
+65,A2B,Masala Dosa,350,120,14,6,0.2,10,400,42,4,2,8,6,4,18,Other
+66,A2B,Rava Kesari,450,150,16,8,0.3,20,420,68,2,38,6,5,4,15,Other
+67,A2B,Medu Vada,400,130,15,6,0.2,22,600,34,4,4,10,7,3,12,Other
+68,A2B,Vegetable Biryani,380,120,14,5,0.3,15,640,60,4,5,9,8,5,25,Other
+69,A2B,Onion Uttapam,360,110,13,5,0.1,12,580,40,3,4,8,5,4,18,Other
+70,A2B,Poori Masala,430,140,16,7,0.3,18,500,52,3,6,7,6,5,20,Other
+71,A2B,Sambar Rice,300,90,10,3,0,15,450,55,4,5,8,10,5,20,Other
+72,A2B,Curd Rice,280,100,11,4,0,12,400,50,2,6,7,5,6,18,Other
+73,A2B,Veg Pulao,320,110,12,4,0,18,420,53,3,5,9,8,5,22,Other
+74,A2B,Paneer Butter Masala,520,180,25,9,0.5,25,750,15,3,6,14,12,6,35,Other
+75,A2B,Masala Dosa,350,120,14,6,0.2,10,400,42,4,2,8,6,4,18,Other
+76,A2B,Rava Kesari,450,150,16,8,0.3,20,420,68,2,38,6,5,4,15,Other
+77,A2B,Medu Vada,400,130,15,6,0.2,22,600,34,4,4,10,7,3,12,Other
+78,A2B,Vegetable Biryani,380,120,14,5,0.3,15,640,60,4,5,9,8,5,25,Other
+79,A2B,Onion Uttapam,360,110,13,5,0.1,12,580,40,3,4,8,5,4,18,Other
+80,A2B,Poori Masala,430,140,16,7,0.3,18,500,52,3,6,7,6,5,20,Other
+81,A2B,Sambar Rice,300,90,10,3,0,15,450,55,4,5,8,10,5,20,Other
+82,A2B,Curd Rice,280,100,11,4,0,12,400,50,2,6,7,5,6,18,Other
+83,A2B,Veg Pulao,320,110,12,4,0,18,420,53,3,5,9,8,5,22,Other
+84,A2B,Paneer Butter Masala,520,180,25,9,0.5,25,750,15,3,6,14,12,6,35,Other
+85,A2B,Masala Dosa,350,120,14,6,0.2,10,400,42,4,2,8,6,4,18,Other
+86,A2B,Rava Kesari,450,150,16,8,0.3,20,420,68,2,38,6,5,4,15,Other
+87,A2B,Medu Vada,400,130,15,6,0.2,22,600,34,4,4,10,7,3,12,Other
+88,A2B,Vegetable Biryani,380,120,14,5,0.3,15,640,60,4,5,9,8,5,25,Other
+89,A2B,Onion Uttapam,360,110,13,5,0.1,12,580,40,3,4,8,5,4,18,Other
+90,A2B,Poori Masala,430,140,16,7,0.3,18,500,52,3,6,7,6,5,20,Other
+91,A2B,Sambar Rice,300,90,10,3,0,15,450,55,4,5,8,10,5,20,Other
+92,A2B,Curd Rice,280,100,11,4,0,12,400,50,2,6,7,5,6,18,Other
+93,A2B,Veg Pulao,320,110,12,4,0,18,420,53,3,5,9,8,5,22,Other
+94,A2B,Paneer Butter Masala,520,180,25,9,0.5,25,750,15,3,6,14,12,6,35,Other
+95,A2B,Masala Dosa,350,120,14,6,0.2,10,400,42,4,2,8,6,4,18,Other
+96,A2B,Rava Kesari,450,150,16,8,0.3,20,420,68,2,38,6,5,4,15,Other
+97,A2B,Medu Vada,400,130,15,6,0.2,22,600,34,4,4,10,7,3,12,Other
+98,A2B,Vegetable Biryani,380,120,14,5,0.3,15,640,60,4,5,9,8,5,25,Other
+99,A2B,Onion Uttapam,360,110,13,5,0.1,12,580,40,3,4,8,5,4,18,Other
+100,A2B,Poori Masala,430,140,16,7,0.3,18,500,52,3,6,7,6,5,20,Other
+101,A2B,Sambar Rice,300,90,10,3,0,15,450,55,4,5,8,10,5,20,Other
+102,A2B,Curd Rice,280,100,11,4,0,12,400,50,2,6,7,5,6,18,Other
+103,A2B,Veg Pulao,320,110,12,4,0,18,420,53,3,5,9,8,5,22,Other
+104,A2B,Paneer Butter Masala,520,180,25,9,0.5,25,750,15,3,6,14,12,6,35,Other
+105,A2B,Masala Dosa,350,120,14,6,0.2,10,400,42,4,2,8,6,4,18,Other
+106,A2B,Rava Kesari,450,150,16,8,0.3,20,420,68,2,38,6,5,4,15,Other
+107,A2B,Medu Vada,400,130,15,6,0.2,22,600,34,4,4,10,7,3,12,Other
+108,A2B,Vegetable Biryani,380,120,14,5,0.3,15,640,60,4,5,9,8,5,25,Other
+109,A2B,Onion Uttapam,360,110,13,5,0.1,12,580,40,3,4,8,5,4,18,Other
+110,A2B,Poori Masala,430,140,16,7,0.3,18,500,52,3,6,7,6,5,20,Other
+111,A2B,Sambar Rice,300,90,10,3,0,15,450,55,4,5,8,10,5,20,Other
+112,A2B,Curd Rice,280,100,11,4,0,12,400,50,2,6,7,5,6,18,Other
+113,A2B,Veg Pulao,320,110,12,4,0,18,420,53,3,5,9,8,5,22,Other
+114,A2B,Paneer Butter Masala,520,180,25,9,0.5,25,750,15,3,6,14,12,6,35,Other
+115,A2B,Masala Dosa,350,120,14,6,0.2,10,400,42,4,2,8,6,4,18,Other
+116,A2B,Rava Kesari,450,150,16,8,0.3,20,420,68,2,38,6,5,4,15,Other
+117,A2B,Medu Vada,400,130,15,6,0.2,22,600,34,4,4,10,7,3,12,Other
+118,A2B,Vegetable Biryani,380,120,14,5,0.3,15,640,60,4,5,9,8,5,25,Other
+119,A2B,Onion Uttapam,360,110,13,5,0.1,12,580,40,3,4,8,5,4,18,Other
+120,A2B,Poori Masala,430,140,16,7,0.3,18,500,52,3,6,7,6,5,20,Other
+121,Dindigul Thalappakatti,Mutton Biryani,600,200,22,8,0.5,85,1100,50,2,5,25,15,6,40,Other
+122,Dindigul Thalappakatti,Chicken Biryani,550,180,20,7,0.4,75,1050,48,2,4,23,14,5,35,Other
+123,Dindigul Thalappakatti,Veg Biryani,450,150,18,6,0.3,65,950,45,3,6,20,10,5,30,Other
+124,Dindigul Thalappakatti,Chicken 65,400,140,15,5,0.2,70,900,10,1,2,28,5,4,25,Other
+125,Dindigul Thalappakatti,Mutton Sukka,500,160,21,7,0.3,80,980,12,2,3,27,8,6,35,Other
+126,Dindigul Thalappakatti,Egg Biryani,470,155,19,6,0.4,68,920,46,2,4,22,12,5,32,Other
+127,Dindigul Thalappakatti,Paneer Butter Masala,520,170,25,9,0.5,72,950,15,3,5,18,10,6,28,Other
+128,Dindigul Thalappakatti,Fish Fry,450,160,23,8,0.3,78,980,8,1,2,26,9,5,30,Other
+129,Dindigul Thalappakatti,Prawn Masala,430,150,22,7,0.2,75,920,10,1,2,24,11,4,28,Other
+130,Dindigul Thalappakatti,Chicken Lollipop,400,140,18,6,0.3,70,900,10,1,2,25,6,5,25,Other
+131,Dindigul Thalappakatti,Mutton Biryani,600,200,22,8,0.5,85,1100,50,2,5,25,15,6,40,Other
+132,Dindigul Thalappakatti,Chicken Biryani,550,180,20,7,0.4,75,1050,48,2,4,23,14,5,35,Other
+133,Dindigul Thalappakatti,Veg Biryani,450,150,18,6,0.3,65,950,45,3,6,20,10,5,30,Other
+134,Dindigul Thalappakatti,Chicken 65,400,140,15,5,0.2,70,900,10,1,2,28,5,4,25,Other
+135,Dindigul Thalappakatti,Mutton Sukka,500,160,21,7,0.3,80,980,12,2,3,27,8,6,35,Other
+136,Dindigul Thalappakatti,Egg Biryani,470,155,19,6,0.4,68,920,46,2,4,22,12,5,32,Other
+137,Dindigul Thalappakatti,Paneer Butter Masala,520,170,25,9,0.5,72,950,15,3,5,18,10,6,28,Other
+138,Dindigul Thalappakatti,Fish Fry,450,160,23,8,0.3,78,980,8,1,2,26,9,5,30,Other
+139,Dindigul Thalappakatti,Prawn Masala,430,150,22,7,0.2,75,920,10,1,2,24,11,4,28,Other
+140,Dindigul Thalappakatti,Chicken Lollipop,400,140,18,6,0.3,70,900,10,1,2,25,6,5,25,Other
+141,Dindigul Thalappakatti,Mutton Biryani,600,200,22,8,0.5,85,1100,50,2,5,25,15,6,40,Other
+142,Dindigul Thalappakatti,Chicken Biryani,550,180,20,7,0.4,75,1050,48,2,4,23,14,5,35,Other
+143,Dindigul Thalappakatti,Veg Biryani,450,150,18,6,0.3,65,950,45,3,6,20,10,5,30,Other
+144,Dindigul Thalappakatti,Chicken 65,400,140,15,5,0.2,70,900,10,1,2,28,5,4,25,Other
+145,Dindigul Thalappakatti,Mutton Sukka,500,160,21,7,0.3,80,980,12,2,3,27,8,6,35,Other
+146,Dindigul Thalappakatti,Egg Biryani,470,155,19,6,0.4,68,920,46,2,4,22,12,5,32,Other
+147,Dindigul Thalappakatti,Paneer Butter Masala,520,170,25,9,0.5,72,950,15,3,5,18,10,6,28,Other
+148,Dindigul Thalappakatti,Fish Fry,450,160,23,8,0.3,78,980,8,1,2,26,9,5,30,Other
+149,Dindigul Thalappakatti,Prawn Masala,430,150,22,7,0.2,75,920,10,1,2,24,11,4,28,Other
+150,Dindigul Thalappakatti,Chicken Lollipop,400,140,18,6,0.3,70,900,10,1,2,25,6,5,25,Other
+151,Dindigul Thalappakatti,Mutton Biryani,600,200,22,8,0.5,85,1100,50,2,5,25,15,6,40,Other
+152,Dindigul Thalappakatti,Chicken Biryani,550,180,20,7,0.4,75,1050,48,2,4,23,14,5,35,Other
+153,Dindigul Thalappakatti,Veg Biryani,450,150,18,6,0.3,65,950,45,3,6,20,10,5,30,Other
+154,Dindigul Thalappakatti,Chicken 65,400,140,15,5,0.2,70,900,10,1,2,28,5,4,25,Other
+155,Dindigul Thalappakatti,Mutton Sukka,500,160,21,7,0.3,80,980,12,2,3,27,8,6,35,Other
+156,Dindigul Thalappakatti,Egg Biryani,470,155,19,6,0.4,68,920,46,2,4,22,12,5,32,Other
+157,Dindigul Thalappakatti,Paneer Butter Masala,520,170,25,9,0.5,72,950,15,3,5,18,10,6,28,Other
+158,Dindigul Thalappakatti,Fish Fry,450,160,23,8,0.3,78,980,8,1,2,26,9,5,30,Other
+159,Dindigul Thalappakatti,Prawn Masala,430,150,22,7,0.2,75,920,10,1,2,24,11,4,28,Other
+160,Dindigul Thalappakatti,Chicken Lollipop,400,140,18,6,0.3,70,900,10,1,2,25,6,5,25,Other
+161,Dindigul Thalappakatti,Mutton Biryani,600,200,22,8,0.5,85,1100,50,2,5,25,15,6,40,Other
+162,Dindigul Thalappakatti,Chicken Biryani,550,180,20,7,0.4,75,1050,48,2,4,23,14,5,35,Other
+163,Dindigul Thalappakatti,Veg Biryani,450,150,18,6,0.3,65,950,45,3,6,20,10,5,30,Other
+164,Dindigul Thalappakatti,Chicken 65,400,140,15,5,0.2,70,900,10,1,2,28,5,4,25,Other
+165,Dindigul Thalappakatti,Mutton Sukka,500,160,21,7,0.3,80,980,12,2,3,27,8,6,35,Other
+166,Dindigul Thalappakatti,Egg Biryani,470,155,19,6,0.4,68,920,46,2,4,22,12,5,32,Other
+167,Dindigul Thalappakatti,Paneer Butter Masala,520,170,25,9,0.5,72,950,15,3,5,18,10,6,28,Other
+168,Dindigul Thalappakatti,Fish Fry,450,160,23,8,0.3,78,980,8,1,2,26,9,5,30,Other
+169,Dindigul Thalappakatti,Prawn Masala,430,150,22,7,0.2,75,920,10,1,2,24,11,4,28,Other
+170,Dindigul Thalappakatti,Chicken Lollipop,400,140,18,6,0.3,70,900,10,1,2,25,6,5,25,Other
+171,Dindigul Thalappakatti,Mutton Biryani,600,200,22,8,0.5,85,1100,50,2,5,25,15,6,40,Other
+172,Dindigul Thalappakatti,Chicken Biryani,550,180,20,7,0.4,75,1050,48,2,4,23,14,5,35,Other
+173,Dindigul Thalappakatti,Veg Biryani,450,150,18,6,0.3,65,950,45,3,6,20,10,5,30,Other
+174,Dindigul Thalappakatti,Chicken 65,400,140,15,5,0.2,70,900,10,1,2,28,5,4,25,Other
+175,Dindigul Thalappakatti,Mutton Sukka,500,160,21,7,0.3,80,980,12,2,3,27,8,6,35,Other
+176,Dindigul Thalappakatti,Egg Biryani,470,155,19,6,0.4,68,920,46,2,4,22,12,5,32,Other
+177,Dindigul Thalappakatti,Paneer Butter Masala,520,170,25,9,0.5,72,950,15,3,5,18,10,6,28,Other
+178,Dindigul Thalappakatti,Fish Fry,450,160,23,8,0.3,78,980,8,1,2,26,9,5,30,Other
+179,Dindigul Thalappakatti,Prawn Masala,430,150,22,7,0.2,75,920,10,1,2,24,11,4,28,Other
+180,Dindigul Thalappakatti,Chicken Lollipop,400,140,18,6,0.3,70,900,10,1,2,25,6,5,25,Other
+181,SS Hyderabad Biryani,Chicken Biryani,560,220,25,5,0,85,1200,60,3,4,25,6,4,40,Other
+182,SS Hyderabad Biryani,Mutton Biryani,640,280,30,7,0,110,1350,65,4,4,30,8,5,50,Other
+183,SS Hyderabad Biryani,Veg Biryani,480,160,18,3.5,0,0,950,80,6,6,10,10,20,60,Other
+184,SS Hyderabad Biryani,Paneer Butter Masala,450,270,30,12,0,50,700,25,3,8,15,12,15,40,Other
+185,SS Hyderabad Biryani,Chicken 65,320,180,20,4,0,75,800,15,2,2,25,4,2,30,Other
+186,SS Hyderabad Biryani,Mutton Kebab,390,240,27,8,0,90,850,8,1,0,28,5,0,25,Other
+187,Charminar Biryani,Chicken Biryani,570,230,26,6,0,90,1250,62,3,5,26,7,5,45,Other
+188,Charminar Biryani,Mutton Biryani,650,290,32,8,0,115,1400,67,4,5,32,9,6,55,Other
+189,Charminar Biryani,Veg Biryani,490,170,19,4,0,0,980,82,7,7,12,11,21,65,Other
+190,Charminar Biryani,Paneer Butter Masala,460,280,31,13,0,55,750,26,3,9,16,13,16,45,Other
+191,Charminar Biryani,Chicken 65,330,190,21,5,0,80,850,16,2,3,26,5,3,35,Other
+192,Charminar Biryani,Mutton Kebab,400,250,28,9,0,95,900,9,1,1,29,6,1,30,Other
+193,Karthik Tiffen Centre,Medu Vadai,150,50,6,2,0,0,300,20,2,1,4,100,1,15,Other
+194,Karthik Tiffen Centre,Podi Dosai,250,80,9,4,0,0,500,30,3,1,6,200,1,20,Other
+195,Karthik Tiffen Centre,Onion Podi Uttapam,280,90,10,4.5,0,0,550,35,4,2,7,220,2,22,Other
+196,Karthik Tiffen Centre,Onion Dosai,270,85,9.5,4,0,0,520,33,3.5,1.5,7,210,2,21,Other
+197,Karthik Tiffen Centre,Butter Masala Dosai,350,150,17,7,0,15,600,35,4,2,8,300,2,25,Other
+198,Karthik Tiffen Centre,Butter Dosai,320,140,15,6,0,10,580,32,3.5,2,7,280,2,23,Other
+199,Karthik Tiffen Centre,Idiyappam,100,30,3,1,0,0,200,22,1,1,2,50,0,10,Other
+200,Karthik Tiffen Centre,Masala Dosai,330,130,14,6,0,10,550,36,4,2,8,270,2,23,Other
+201,Karthik Tiffen Centre,Ghee Podi Dosai,340,160,18,7,0,15,610,34,4,2,7,290,2,26,Other
+202,Karthik Tiffen Centre,Pongal,220,80,9,4,0,5,350,28,2,1,6,150,1,18,Other
+203,Karthik Tiffen Centre,Idli,120,10,1,0.2,0,0,230,24,1,0,3,50,0,10,Other
+204,Karthik Tiffen Centre,Vada,180,70,8,3,0,0,350,22,2,1,4,80,1,15,Other
+205,Karthik Tiffen Centre,Upma,190,70,8,3,0,0,320,25,2,1,4,100,1,18,Other
+206,Karthik Tiffen Centre,Poori with Potato Masala,320,150,17,7,0,0,450,34,3,1,6,200,1,20,Other
+207,Karthik Tiffen Centre,Kesari,250,90,10,4,0,0,300,38,1,26,2,50,0,10,Other
+208,Amman Mess Anna Nagar,Karuvepillai Pepper Prawn,320,180,20,4,0,110,800,10,1,2,24,20,8,40,Other
+209,Amman Mess Anna Nagar,Prawn Fry,310,160,18,3,0,100,850,12,1,2,22,18,5,35,Other
+210,Amman Mess Anna Nagar,Tawa Vanjiram Fish Fry,290,150,17,3,0,90,750,11,2,1,20,15,7,30,Other
+211,Amman Mess Anna Nagar,Coriander Pepper Prawn,330,170,19,3,0,105,780,13,2,2,23,18,6,40,Other
+212,Amman Mess Anna Nagar,Chicken 65,270,130,15,2,0,70,600,8,1,1,28,12,3,25,Other
+213,Amman Mess Anna Nagar,Chicken Pallipalyam,280,140,16,3,0,75,620,9,1,1,26,15,4,28,Other
+214,Amman Mess Anna Nagar,Mutton Nalli Fry,350,200,22,5,0,120,850,10,1,1,30,25,8,45,Other
+215,Amman Mess Anna Nagar,Paneer Butter Masala,290,170,19,4,0,60,500,15,3,4,15,12,10,60,Other
+216,Amman Mess Anna Nagar,Gobi 65,240,120,13,2,0,50,450,20,3,3,10,10,5,45,Other
+217,Amman Mess Anna Nagar,Kadai Vegetable,260,130,14,2,0,40,420,18,4,3,12,14,6,50,Other
+218,Copper Kitchen,Chicken Biryani,450,180,20,6,0,70,900,55,3,4,22,6,10,30,Other
+219,Copper Kitchen,Mutton Biryani,500,200,22,8,0,80,950,60,3,4,24,6,12,35,Other
+220,Copper Kitchen,Paneer Tikka,350,160,18,10,0,50,600,15,3,6,14,10,8,25,Other
+221,Copper Kitchen,Chicken 65,400,150,16,4,0,80,800,20,2,4,30,6,8,20,Other
+222,Copper Kitchen,Butter Chicken,450,200,25,12,0,100,850,18,2,8,28,8,10,40,Other
+223,Copper Kitchen,Naan,260,60,7,2,0,0,400,45,2,2,8,2,0,10,Other
+224,Copper Kitchen,Veg Pulao,350,120,13,4,0,0,700,55,4,5,7,8,15,20,Other
+225,Copper Kitchen,Mutton Rogan Josh,500,250,28,14,0,120,900,18,3,4,26,6,6,40,Other
+226,Copper Kitchen,Prawn Masala,350,120,12,5,0,70,800,20,3,4,22,6,10,25,Other
+227,Copper Kitchen,Gobi Manchurian,300,80,9,2,0,0,750,50,4,6,8,8,12,15,Other
+228,Brownie Heaven,Vegan Chocolate Brownie,200,90,10,3,0,0,50,30,2,20,3,0,0,10,Other
+229,Brownie Heaven,Classic Chocolate Brownie,250,120,14,5,0.5,20,150,35,3,25,4,2,0,15,Other
+230,Brownie Heaven,Nutty Brownie,280,140,16,6,0.5,25,170,34,3,24,5,2,0,20,Other
+231,Brownie Heaven,White Chocolate Brownie,270,130,15,7,0.5,25,160,33,2,22,4,1,0,18,Other
+232,Desichuppa,Banana Lassi,150,30,4,2,0,10,80,25,1,18,3,100,2,50,Other
+233,Desichuppa,Dry Fruit Lassi,250,60,8,4,0,15,120,30,3,22,6,120,3,80,Other
+234,Desichuppa,Kiwi Lassi,160,40,5,2,0,12,90,28,2,15,4,110,2,60,Other
+235,Desichuppa,Sweet Lassi,140,30,3,1.5,0,10,70,20,1,12,2,90,2,40,Other
+236,Desichuppa,Cheese Bread Omelette,220,80,10,4,0,20,150,22,2,3,8,120,1,30,Other
+237,Desichuppa,Mayo Bread Omelette,230,90,11,4,0,22,160,25,2,4,7,130,1,40,Other
+238,Desichuppa,Chocolate Coffee,180,50,6,3,0,8,90,25,1,15,3,80,1,20,Other
+239,Desichuppa,Hard Rock Coffee,170,45,5,2.5,0,7,85,24,1,13,3,75,1,20,Other
+240,Desichuppa,Banjara Hills Falooda,350,120,15,6,0,25,200,55,3,45,6,300,2,100,Other
+241,Desichuppa,Mumbai Style Falooda,340,110,14,6,0,22,190,54,3,44,6,280,2,90,Other
+242,Desichuppa,French Fries,300,120,14,2,0,0,180,40,4,0,3,0,10,2,20
+243,Desichuppa,Smileys,150,60,7,1.5,0,0,90,20,2,0,2,0,5,1,10
+244,Desichuppa,Orange Juice,100,0,0,0,0,0,10,25,1,22,1,0,30,20,5
+245,Desichuppa,Watermelon Juice,90,0,0,0,0,0,8,24,1,20,1,0,25,15,5
+246,Desichuppa,Chicken Momos,200,60,7,2,0,20,140,25,2,2,10,0,10,4,30
+247,Desichuppa,Veg Momos,180,50,6,1.5,0,0,130,23,2,2,8,0,8,4,25
+248,SmokeHub Barbeque,Chicken Keema Dosa,350,140,16,5,0,70,700,36,2,3,14,50,2,20,Other
+249,SmokeHub Barbeque,BBQ Chicken Pizza,450,180,20,8,0,60,800,45,3,5,18,100,5,25,Other
+250,SmokeHub Barbeque,Paneer Makhani,400,150,17,10,0,50,600,30,5,8,12,200,10,30,Other
+251,SmokeHub Barbeque,Tandoori Chicken Tikka,300,90,10,3,0,80,500,10,1,1,30,0,2,15,Other
+252,SmokeHub Barbeque,Chicken Dum Biryani,600,180,20,6,0,90,1200,75,5,5,30,50,5,40,Other
+253,SmokeHub Barbeque,Mutton Rogan Josh,550,200,22,8,0,100,900,45,4,3,25,70,3,35,Other
+254,SmokeHub Barbeque,French Fries,300,140,16,2,0,0,300,40,3,0,4,0,10,10,Other
+255,SmokeHub Barbeque,Hot Jalebi,400,150,17,10,0,0,200,60,2,40,2,0,0,15,Other
+256,Barbeque Nation,Tandoori Chicken,260,90,10,3,0,75,500,6,1,2,28,150,2,20,Other
+257,Barbeque Nation,Chicken Wings,290,120,13,4,0,80,600,8,1,3,27,200,2,22,Other
+258,Barbeque Nation,Paneer Tikka,200,100,11,5,0,40,350,10,1,3,12,150,1,25,Other
+259,Barbeque Nation,Grilled Fish,220,80,9,2.5,0,70,450,1,0,0,31,100,2,15,Other
+260,Barbeque Nation,Mutton Seekh Kebab,300,150,16,6,0,90,550,5,1,1,25,180,2,18,Other
+261,Barbeque Nation,Prawn Skewers,180,70,8,2,0,100,450,3,0,0,22,80,1,10,Other
+262,Barbeque Nation,Dal Makhani,250,120,13,7,0,40,300,20,5,4,12,100,2,40,Other
+263,Barbeque Nation,Biryani,350,130,14,6,0,40,800,45,3,2,15,150,2,30,Other
+264,Barbeque Nation,Garlic Naan,220,70,8,3,0,20,350,30,2,2,6,50,1,20,Other
+265,Barbeque Nation,Veg Hakka Noodles,280,80,9,2,0,0,550,45,3,3,7,100,2,20,Other
+266,Barbeque Nation,Brownie with Ice Cream,400,180,20,10,0,80,300,45,2,30,5,50,1,100,Other
+267,Barbeque Nation,Gulab Jamun,150,60,6,3,0,10,100,22,0,15,3,50,0,10,Other
+268,Barbeque Nation,Mango Panna Cotta,200,80,9,5,0,40,100,25,0,20,3,100,0,15,Other
+269,Ya Moideen Biryani,Chicken Biryani,700,200,22,6,0,90,1200,90,3,4,35,100,2,40,Other
+270,Ya Moideen Biryani,Mutton Biryani,800,250,28,8,0,110,1300,85,4,3,40,120,2,45,Other
+271,Ya Moideen Biryani,Kuska,600,180,20,5,0,5,900,95,2,3,12,50,1,35,Other
+272,Ya Moideen Biryani,Chicken 65,400,150,18,4.5,0,85,900,15,1,1,35,70,1,20,Other
+273,Ya Moideen Biryani,Mutton Chukka,500,220,25,8,0,120,950,20,2,1,40,80,1,30,Other
+274,Ya Moideen Biryani,Bread Halwa,350,100,12,6,0,25,300,55,1,30,5,60,0,20,Other
+275,Ya Moideen Biryani,Onion Raitha,50,10,1,0.5,0,5,150,10,1,4,2,30,1,15,Other
+276,Ya Moideen Biryani,Brinjal Gravy,100,30,3,0.5,0,0,200,18,3,6,2,80,3,10,Other
+277,Buhari Restaurant,Chicken 65,566,369,41,7,0,110,1420,9.2,0.9,0.4,39,300,5,40,Other
+278,Buhari Restaurant,Mutton Biryani,900,350,39,16,0,100,1500,95,5,3,40,250,10,60,Other
+279,Buhari Restaurant,Chicken Biryani,700,200,22,8,0,75,1300,85,4,2,30,200,8,50,Other
+280,Buhari Restaurant,Veg Biryani,500,120,13,5,0,0,1000,90,6,4,10,150,15,40,Other
+281,Buhari Restaurant,Mutton Korma,450,320,35,12,0,80,800,15,2,1,25,100,5,30,Other
+282,Buhari Restaurant,Chicken Korma,400,250,28,10,0,70,750,20,3,2,20,120,5,35,Other
+283,Buhari Restaurant,Egg Biryani,600,180,20,7,0,250,1100,80,4,3,25,150,6,40,Other
+284,Buhari Restaurant,Fish Fry,300,150,16,4,0,90,600,15,1,0.5,20,80,2,20,Other
+285,Buhari Restaurant,Paneer Butter Masala,400,250,28,10,0,60,700,20,3,3,15,150,5,30,Other
+286,Buhari Restaurant,Chicken Curry,350,150,16,6,0,80,650,15,2,1.5,25,100,5,25,Other
+287,Buhari Restaurant,Veg Korma,300,100,11,5,0,0,500,35,5,4,10,100,10,25,Other
+288,Buhari Restaurant,Parotta,250,120,13,6,0,0,350,30,2,1,5,50,2,15,Other
